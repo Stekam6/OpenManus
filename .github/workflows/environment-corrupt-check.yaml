@@ -2,8 +2,6 @@ name: Environment Corruption Check
 on:
   push:
     branches: ["main"]
-    paths:
-      - requirements.txt
   pull_request:
     branches: ["main"]
     paths:
