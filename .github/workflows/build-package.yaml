@@ -1,6 +1,7 @@
 name: Build and upload Python package
 
 on:
+  push:
   workflow_dispatch:
   release:
     types: [created, published]
