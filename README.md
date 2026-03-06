@@ -20,7 +20,7 @@ Our team members [@Xinbin Liang](https://github.com/mannaandpoem) and [@Jinyu Xi
 It's a simple implementation, so we welcome any suggestions, contributions, and feedback!
 
 Enjoy your own agent with OpenManus!
-
+   
 We're also excited to introduce [OpenManus-RL](https://github.com/OpenManus/OpenManus-RL), an open-source project dedicated to reinforcement learning (RL)- based (such as GRPO) tuning methods for LLM agents, developed collaboratively by researchers from UIUC and OpenManus.
 
 ## Project Demo
